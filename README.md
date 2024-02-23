@@ -46,8 +46,6 @@ Only the necessary parts will be summarized.
 |Meet Reality Composer Pro|`Reality Composer`|`21m`|
 |Work with Reality Composer Pro content in Xcode|`Reality Composer`|`34m`|
 |Explore materials in Reality Composer Pro|`Reality Composer`|`20m`|
-|Explore immersive sound design|`Audio & Video`|`14m`|
-|Explore immersive sound design|`Audio & Video`|`14m`|
 |Principles of spatial design|`Design`|`21m`|
 |Design for spatial input|`Design`|`20m`|
 |Design for spatial user interfaces|`Design`|`22m`|
