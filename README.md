@@ -8,3 +8,7 @@ Translate [official documents](https://developer.apple.com/documentation/visiono
 - [003-Configuring-your-app-for-media-playback](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/003-Configuring-your-app-for-media-playback.md)
 - [004-Adopting-the-system-player-interface-in-visionOS](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/004-Adopting-the-system-player-interface-in-visionOS.md)
 - [005-Controlling-the-transport-behavior-of-a-player](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/005-Controlling-the-transport-behavior-of-a-player.md)
+
+## Misc
+- [visionOS app project setting options](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/misc/001-project-setup.md)
+- [Start with a transparent background](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/misc/002-Start-with-a-transparent-background.md)
