@@ -1,6 +1,9 @@
 # Trimming and exporting media in visionOS
 Display standard controls in your app to edit the timeline of the currently playing media.
 
+> [!Note]  
+> 미디어 트리밍이란 미디어에서 불필요한 부분을 제거하거나 편집하는 등의 작업을 의미합니다.
+
 ## Overview
 
 - System Player 인터페이스를 사용하기 위해서 `AVPlayerViewController`를 사용합니다.
