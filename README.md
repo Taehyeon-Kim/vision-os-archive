@@ -9,6 +9,7 @@ Translate [official documents](https://developer.apple.com/documentation/visiono
 - [004-Adopting-the-system-player-interface-in-visionOS](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/004-Adopting-the-system-player-interface-in-visionOS.md)
 - [005-Controlling-the-transport-behavior-of-a-player](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/005-Controlling-the-transport-behavior-of-a-player.md)
 - [006-Monitoring-playback-progress-in-your-app](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/006-Monitoring-playback-progress-in-your-app.md)
+- [007-Trimming-and-exporting-media-in-visionOS](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/007-Trimming-and-exporting-media-in-visionOS.md)
 
 ## WWDC Session list
 Only the necessary parts will be summarized.
