@@ -10,6 +10,7 @@ Translate [official documents](https://developer.apple.com/documentation/visiono
 - [005-Controlling-the-transport-behavior-of-a-player](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/005-Controlling-the-transport-behavior-of-a-player.md)
 - [006-Monitoring-playback-progress-in-your-app](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/006-Monitoring-playback-progress-in-your-app.md)
 - [007-Trimming-and-exporting-media-in-visionOS](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/007-Trimming-and-exporting-media-in-visionOS.md)
+- [008-Setting-up-access-to-ARKit-data](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/008-Setting-up-access-to-ARKit-data.md)
 
 ## WWDC Session list
 Only the necessary parts will be summarized.
