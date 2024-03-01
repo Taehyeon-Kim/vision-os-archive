@@ -11,6 +11,7 @@ Translate [official documents](https://developer.apple.com/documentation/visiono
 - [006-Monitoring-playback-progress-in-your-app](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/006-Monitoring-playback-progress-in-your-app.md)
 - [007-Trimming-and-exporting-media-in-visionOS](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/007-Trimming-and-exporting-media-in-visionOS.md)
 - [008-Setting-up-access-to-ARKit-data](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/008-Setting-up-access-to-ARKit-data.md)
+- [009-Tracking-preregistered-images-in-3D-space](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/official-document/009-Tracking-preregistered-images-in-3D-space.md)
 
 ## WWDC Session list
 Only the necessary parts will be summarized.
