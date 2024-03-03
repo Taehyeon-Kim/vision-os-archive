@@ -1,4 +1,4 @@
-# Media Asset의 MV-HEVC 사양 검사
+# Verify that files meet MV-HEVC specifications and have valid stereo data
 
 ## MV-HEVC
 - MV-HEVC 미디어 파일에는 왼쪽 눈과 오른쪽 눈에 각각 하나씩 Stereoscopic 프레임을 생성해서 깊이감을 주고 3D 비디오를 만들 수 있는 정보가 포함되어 있습니다.
