@@ -20,3 +20,4 @@ Only the necessary parts will be summarized.
 ## Misc
 - [visionOS app project setting options](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/misc/001-project-setup.md)
 - [Start with a transparent background](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/misc/002-Start-with-a-transparent-background.md)
+- [Verify that files meet MV-HEVC specifications and have valid stereo data](https://github.com/Taehyeon-Kim/vision-os-archive/blob/main/misc/003-Multiview-High-Efficiency-Video-Coding.md)
